@@ -2,9 +2,9 @@
 <p>Full Stack Dev Jr - Live in Santiago, Chile. #React #Javascript #Web3 #BTC #ETH</p>
 
 <h3 align="left">Connect whit me here:</h3>
-<p align="left"> <a href="https://www.youtube.com/@diegogatica" target="blank"><img
+<a href="https://www.youtube.com/@diegogatica" target="blank"><img
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="Youtube" /></a> </p>
+      alt="Youtube" /></a>
 <a href="https://instagram.com/diegogatica369" target="blank"><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="instagram" /></a>
