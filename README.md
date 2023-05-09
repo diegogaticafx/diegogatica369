@@ -4,5 +4,5 @@
 <h3 align="left">Connect whit me here:</h3>
 
 <a href="https://beacons.ai/diegogatica" target="blank"><img
-      src="https://img.shields.io/badge/Beacons-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+      src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
       alt="Links" /></a>
