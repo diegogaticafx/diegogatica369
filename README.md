@@ -1,5 +1,5 @@
 <h4>Hi There!, Peace.</h4>
-<p>Full Stack Dev Jr - Live in Santiago, Chile. #React #Javascript #Web3 #BTC #ETH</p>
+<p>Full Stack Developer - Live in Santiago, Chile. #Web3 #BTC #ETH</p>
 
 <h3 align="left">Connect whit me here:</h3>
 
